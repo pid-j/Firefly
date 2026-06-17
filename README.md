@@ -21,6 +21,6 @@ Here's a demonstration on the original PB2:
 
 https://github.com/user-attachments/assets/421a84c6-1a7a-4304-b5cc-a427d2c903c7
 
-And now, here's a demo with my fixes:
+And now, here's a demonstration of PB2 with the above fixes:
 
 https://github.com/user-attachments/assets/3b94bde7-504b-4c9f-9d4f-1b08586b3d04
