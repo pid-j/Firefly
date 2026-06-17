@@ -19,8 +19,8 @@ I won't keep updating this branch as it'll probably get merged into the main Fir
 
 I'll do a demonstration on the original PB2:
 
-[![](FireflyBugDemo.mp4)](FireflyBugDemo.mp4)
+https://github.com/user-attachments/assets/421a84c6-1a7a-4304-b5cc-a427d2c903c7
 
 And now, here's a demo with my fixes:
 
-[![](FixedBugDemo.mp4)](FixedBugDemo.mp4)
+https://github.com/user-attachments/assets/3b94bde7-504b-4c9f-9d4f-1b08586b3d04
