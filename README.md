@@ -15,9 +15,9 @@ This branch includes some bug fixes for Lightning Varsovia. PB2 isn't fully fles
 
 I won't keep updating this branch as it'll probably get merged into the main Firefly repo.
 
-## How can you prove you fixed all of this?
+## I don't understand, is there a demo?
 
-I'll do a demonstration on the original PB2:
+Here's a demonstration on the original PB2:
 
 https://github.com/user-attachments/assets/421a84c6-1a7a-4304-b5cc-a427d2c903c7
 
