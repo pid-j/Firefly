@@ -13,7 +13,7 @@ This branch includes some bug fixes for Lightning Varsovia. PB2 isn't fully fles
 
 ## What will happen to the branch?
 
-I won't keep updating this branch as it'll probably get merged into the main Firefly repo.
+I won't keep updating this branch as it'll probably get merged into the main Firefly repo. This branch will disappear when PB3 is released, and please remind me if I don't delete it.
 
 ## I don't understand, is there a demo?
 
